@@ -1,11 +1,13 @@
 <H1>This is a test repo </H1>
 
-This is a temperory repositiry for hackerRI meetup 
+This is a temperory repository for hackerRI meetup 
 
-this is  commotted
+this is  commited //Message passed
 
-not committted
+not committted //Passed
 
 Update User Findings in Hello.rb
 
+
+Update needed!!
 
